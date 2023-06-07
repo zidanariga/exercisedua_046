@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exercisedua_046", "exercisedua_046\exercisedua_046.vcxproj", "{FE576905-75BD-48CC-9310-A8EDB6AB5481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE576905-75BD-48CC-9310-A8EDB6AB5481}.Debug|x64.ActiveCfg = Debug|x64
+		{FE576905-75BD-48CC-9310-A8EDB6AB5481}.Debug|x64.Build.0 = Debug|x64
+		{FE576905-75BD-48CC-9310-A8EDB6AB5481}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE576905-75BD-48CC-9310-A8EDB6AB5481}.Debug|x86.Build.0 = Debug|Win32
+		{FE576905-75BD-48CC-9310-A8EDB6AB5481}.Release|x64.ActiveCfg = Release|x64
+		{FE576905-75BD-48CC-9310-A8EDB6AB5481}.Release|x64.Build.0 = Release|x64
+		{FE576905-75BD-48CC-9310-A8EDB6AB5481}.Release|x86.ActiveCfg = Release|Win32
+		{FE576905-75BD-48CC-9310-A8EDB6AB5481}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9736960C-AEA3-48FD-875A-996224242C7B}
+	EndGlobalSection
+EndGlobal
